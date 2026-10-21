@@ -1,1 +1,2 @@
-# Git
+# git
+Updated from GitHub
